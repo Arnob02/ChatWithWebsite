@@ -64,7 +64,7 @@ def get_response(user_input):
     })
     return response['answer'] 
     
-# app config
+# app configuration 
 st.set_page_config(page_title="Chat With Website", page_icon="🧊")
 st.title("Chat With Website") 
 
